@@ -1,9 +1,9 @@
 ﻿const config: Config = {
     botToken: '5778803513:AAGqTkyF--atxLBdKisq4xx6YXgFUvSiUW8',
     keepFiles: {
-        compared: true,
-        input: true,
-        single: true,
+        compared: false,
+        input: false,
+        single: false,
         video: false,
     },
     messages: {
