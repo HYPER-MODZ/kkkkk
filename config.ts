@@ -10,6 +10,8 @@
         blocked: 'The Chinese website has blocked the bot, too bad 🤷‍♂️',
         bye:
             '💚 Thanks For Using Bot 💚\n' +
+            '💚 You can add bot your groups 💚\n' +
+            '💚 [Bot Channel](https://t.me/animebotc) 💚\n' +
             'special Thanks For script Owner Imcsu',
         hello: 'Hi 👋 Send me a photo to convert it into a 2D anime art\n 🌸 Be sure to join the channel @animebotc',
         media: '@Anime\\qq\\Ai\\bot',
