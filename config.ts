@@ -17,11 +17,11 @@
         media: '@Anime\\qq\\Ai\\bot',
         received: 'Photo has been received, please wait',
     },
-    proxyUrl: 'socks5://HIA:HIA@211.140.252.244:7300',
+    proxyUrl: 'socks5://HIA:HIA@58.49.230.248:30001',
     sendMedia: {
         compared: true,
         single: true,
-        video: false,
+        video: true,
     },
 };
 
