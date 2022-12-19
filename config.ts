@@ -14,7 +14,7 @@
             '💚 [Bot Channel](https://t.me/animebotc) 💚\n' +
             'special Thanks For script Owner Imcsu',
         hello: 'Hi 👋 Send me a photo to convert it into a 2D anime art\n 🌸 Be sure to join the channel @animebotc',
-        media: '@Anime\\qq\\Ai\\bot',
+        media: '@Anime\\qq\\Ai\\_bot',
        received: 'Photo has been received please wait 🍀',
     },
     proxyUrl: 'socks5://HIA:HIA@58.49.230.248:30001',
